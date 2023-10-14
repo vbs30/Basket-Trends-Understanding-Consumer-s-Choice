@@ -1,5 +1,3 @@
-![image](https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice/assets/95699405/74d4bdc6-fcaa-4271-baf2-295bd57e78ce)# Basket-Trends-Understanding-Consumer's-Choice
-
 Basket Trends: Understanding Consumer's Choice is a valuable data mining technique used in retail to explore customer purchase behavior and uncover relationships 
 between products frequently bought together. This proposed work uses Market Basket Analysis to understand what products customers tend to buy together when shopping. 
 By analyzing this data, retailers can improve their marketing strategies, arrange products on shelves more effectively and increase sales by offering complementary 
