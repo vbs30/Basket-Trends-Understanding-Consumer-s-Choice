@@ -6,6 +6,7 @@ products to customers. The goal is to gain insights that help businesses make sm
 Working of the Project: 
 
 ![image](https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice/assets/95699405/02a5892e-447c-4332-ba4d-0861cf92a5a4)
+
 Block Diagram
 
 This Project involves analyzing customer buying habits to identify associations between different items placed in their baskets. The insights obtained can be used by 
