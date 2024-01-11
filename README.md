@@ -3,6 +3,9 @@ between products frequently bought together. This proposed work uses Market Bask
 By analyzing this data, retailers can improve their marketing strategies, arrange products on shelves more effectively and increase sales by offering complementary 
 products to customers. The goal is to gain insights that help businesses make smarter decisions to enhance the shopping experience and increase customer satisfaction.
 
+This project is copyrighted within rules and regulations from the Indian Government,<br>
+Copyright Link: https://drive.google.com/file/d/1xUpaGbyDjZTQlDpHvA5exBSx0Bx0-yHf/view?usp=drive_link
+
 Working of the Project: 
 
 ![image](https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice/assets/95699405/02a5892e-447c-4332-ba4d-0861cf92a5a4)
